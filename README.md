@@ -7,7 +7,7 @@
       # Source: Ministry of Foreign Affairs
       # Note: Data collected annually
     ### 2. singapore_sustainability
-      # Description: Report on effectiveness of Sinapore environmental sustainability efforts
+      # Description: Report on effectiveness of Singapore environmental sustainability efforts
       # Format: PDF Document
       # Source: National Environment Agency
       # Note: Data collected over 20 years
